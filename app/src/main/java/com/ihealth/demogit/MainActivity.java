@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // commit 1
+
+        // this is branch 1
     }
 
     @Override
